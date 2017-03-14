@@ -29,7 +29,7 @@
 - https://youtu.be/OX-DyjxSYjU
 
 ## Images
-! [alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8924.jpg)
-! [alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8925.jpg)
-! [alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8926.jpg)
-! [alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_9465.JPG)
+![alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8924.jpg)
+![alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8925.jpg)
+![alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_8926.jpg)
+![alt tag](https://github.com/abhisheksuhasmhatre/Project-3/blob/master/IMG_9465.JPG)
